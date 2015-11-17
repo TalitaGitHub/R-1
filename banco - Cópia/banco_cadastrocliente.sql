@@ -1,6 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 2.11.7
--- http://www.phpmyadmin.net
+﻿
 --
 -- Servidor: localhost
 -- Tempo de Geração: Out 29, 2014 as 09:34 PM
